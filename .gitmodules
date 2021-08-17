@@ -1,0 +1,3 @@
+[submodule "aem-component-snippets"]
+	path = aem-component-snippets
+	url = https://github.com/prahladmishra/aem-component-snippets.git
